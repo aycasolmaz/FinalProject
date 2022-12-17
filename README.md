@@ -3,7 +3,7 @@
 -- npm install
 -- npm run dev
 
-Projects - You can find all of my past projects in this page.
+Projects - You can find all of my past projects in this page. /n
 Sailing - I used Grid to showcase my sailing pictures.
 Food - Uses an external API to search through a list of foods.
 Art - Skillfully uses CSS and HTML properties to create a gallery of my favorite images.
