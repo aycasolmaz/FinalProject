@@ -15,9 +15,6 @@
                 <video controls width="350px">
                     <source src="../../images/funny-sailing.MP4" type="video/mp4">
                 </video>
-                <video controls width="350px" height="">
-                    <source src="../../images/sailingvid.MP4" type="video/mp4">
-                </video>
             </div>
         </body>
     </main>
