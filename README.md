@@ -1,7 +1,12 @@
-# Vue 3 + Vite
+# Ayca Bige Solmaz's Personal Project
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+-- npm install
+-- npm run dev
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Projects - You can find all of my past projects in this page.
+Sailing - I used Grid to showcase my sailing pictures.
+Food - Uses an external API to search through a list of foods.
+Art - Skillfully uses CSS and HTML properties to create a gallery of my favorite images.
+Music - Showcase my music projects.
+Travel - Through axios, add, modify, and delete my list of countries I want to go to!
+Turkey - a quiz page for my country Turkey.
