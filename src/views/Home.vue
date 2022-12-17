@@ -26,7 +26,7 @@
                     <h3>Music</h3>
                     <p>I love making music and my dream is to be a product manager or a software developer at Spotify!
                         Here's a song I made with my friends called 'For a moment (Bi' An Icin)</p>
-                    <img src="../../images/friends.JPG" width="300px" height="200px">
+                    <img src="../../images/friends.jpg" width="300px" height="200px">
                 </div>
             </a>
             <a class="sailing" href="/sailing">
@@ -43,7 +43,6 @@
                     <h3>Food</h3>
                     <p>I love to cook and I'm a foodie! I love to try new foods and I'm always looking for new recipes.
                         I'm also a vegetarian and I love to cook vegetarian food. Here's a picture of me cooking!</p>
-                    <img width="200" height="150" src="../../images/cooking.jpg" alt="Me cooking at 12 years old.">
                 </div>
             </a>
             <a class="art" href="/art">
@@ -52,7 +51,6 @@
                     <p>I love to draw and paint. I'm not very good at it but I love to do it. I also love to do
                         calligraphy and I'm always looking for new ways to improve my skills. Here's a picture of me
                         drawing!</p>
-                    <img width="200" height="150" src="../../images/drawing.jpg" alt="Me drawing at 12 years old.">
                 </div>
             </a>
             <a class="next-steps" href="/next-steps">
