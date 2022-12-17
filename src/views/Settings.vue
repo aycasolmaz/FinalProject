@@ -1,69 +1,71 @@
 <template>
   <section>
-      <div class="container">
-          <form @submit.prevent="handleSubmit">
-              <div class="form-group">
-                  <label for="fullName">Full name:</label>
-                  <input type="text" id="fullName" v-model="name">
-              </div>
-              
-              <div class="form-group">
-                  <label for="email">Email:</label>
-                  <input type="email" id="email" v-model="email">
-              </div>
+    <div class="container">
+      <form @submit.prevent="handleSubmit">
+        <div class="form-group">
+          <label for="fullName">Full name:</label>
+          <input type="text" id="fullName" v-model="name">
+        </div>
 
-              <div class="form-group">
-                  <label for="massage">Message:</label>
-                  <textarea id="massage" rows="5" v-model="message"></textarea>
-              </div>
+        <div class="form-group">
+          <label for="email">Email:</label>
+          <input type="email" id="email" v-model="email">
+        </div>
 
-              <button type="submit">Submit</button>
-          </form>
-      </div>
+        <div class="form-group">
+          <label for="massage">Message:</label>
+          <textarea id="massage" rows="5" v-model="message"></textarea>
+        </div>
 
-      <div>
-          <p>Result</p>
-          <p>Name: {{ name }}</p>
-          <p>Email: {{ email }}</p>
-          <p>Message: {{ message }}</p>
-      </div>
+        <button type="submit">Submit</button>
+      </form>
+    </div>
+
+    <div>
+      <p>Result</p>
+      <p>Name: {{ name }}</p>
+      <p>Email: {{ email }}</p>
+      <p>Message: {{ message }}</p>
+    </div>
+
   </section>
 </template>
 
 <script>
 export default {
   components: import('./Settings.vue'),
-data() {
+  data() {
     return {
-        name: '',
-        email: '',
-        message: ''
+      name: '',
+      email: '',
+      message: ''
     }
-},
-methods: {
-  handleSubmit() {
-    let userMessage = {
-      name: this.name,
-      email: this.email,
-      message: this.message
+  },
+  methods: {
+    handleSubmit() {
+      let userMessage = {
+        name: this.name,
+        email: this.email,
+        message: this.message
+      }
+      // projectFirestore.collection('userMessages').add(userMessage)
     }
-    // projectFirestore.collection('userMessages').add(userMessage)
   }
-}
 }
 </script>
 
 <style>
 * {
   box-sizing: border-box;
-  font-family: "Montserrat";
 }
-section {
+
+.section {
   height: 100vh;
   display: flex;
   justify-content: center;
   flex-direction: column;
 }
+
 .container {
   width: 90%;
   max-width: 500px;
@@ -72,11 +74,13 @@ section {
   box-shadow: 0px 0px 20px #00000033;
   border-radius: 8px;
 }
+
 .form-group {
   margin-top: 20px;
   font-size: 20px;
   color: #9e9e9e;
 }
+
 .form-group input,
 .form-group textarea {
   width: 100%;
@@ -85,9 +89,11 @@ section {
   border: 1px solid rgba(128, 128, 128, 0.199);
   margin-top: 5px;
 }
+
 textarea {
   resize: vertical;
 }
+
 button {
   width: 100%;
   border: none;
@@ -96,5 +102,9 @@ button {
   border-radius: 8px;
   cursor: pointer;
   margin-top: 10px;
+}
+
+img {
+  float: right;
 }
 </style>

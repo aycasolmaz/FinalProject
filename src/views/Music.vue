@@ -2,6 +2,7 @@
     <main>
         <section class="page-description">
             <h1>Music Projects, Playlists & Videos</h1>
+            <img src="../../images/music.png" height="50px" width="50px">
             <p>My favorite hobby is listening, composing, sampling, and just playing around with music. On this page,
                 you will encounter my songs, me and friends singing, and my favorite songs at the moment!</p>
         </section>
