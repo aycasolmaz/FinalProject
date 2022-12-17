@@ -12,15 +12,15 @@
                     <li><a href="#img_5"><img src="../../images/nyc3.jpg"></a></li>
                     <li><a href="#img_6"><img src="../../images/coin.jpg"></a></li>
                     <li><a href="#img_7"><img src="../../images/coin2.jpg"></a></li>
-                    <li><a href="#img_8"><img src="../../images/dj.JPG"></a></li>
+                    <li><a href="#img_8"><img src="../../images/bey.jpgs"></a></li>
                     <li><a href="#img_9"><img src="../../images/home.jpg"></a></li>
                     <li><a href="#img_10"><img src="../../images/met.jpg"></a></li>
                     <li><a href="#img_11"><img src="../../images/milano.jpg"></a></li>
-                    <li><a href="#img_12"><img src="../../images/sziempre.JPG"></a></li>
-                    <li><a href="#img_13"><img src="../../images/scorpio.JPEG"></a></li>
-                    <li><a href="#img_14"><img src="../../images/prague.JPG"></a></li>
-                    <li><a href="#img_15"><img src="../../images/picasso.JPG"></a></li>
-                    <li><a href="#img_16"><img src="../../images/peace.JPG"></a></li>
+                    <li><a href="#img_12"><img src="../../images/sziempre.jpg"></a></li>
+                    <li><a href="#img_13"><img src="../../images/scorpio.jpeg"></a></li>
+                    <li><a href="#img_14"><img src="../../images/prague.jpg"></a></li>
+                    <li><a href="#img_15"><img src="../../images/picasso.jpg"></a></li>
+                    <li><a href="#img_16"><img src="../../images/peace.jpg"></a></li>
                 </ul>
                 <a href="#_1" class="lightbox trans" id="img_1"><img src="../../images/bos.jpg"></a>
                 <a href="#_2" class="lightbox trans" id="img_2"><img src="../../images/artt.PNG"></a>
