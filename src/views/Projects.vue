@@ -34,13 +34,6 @@
                     <source src="../../images/spaceshooter.mp4" type="video/mp4">
                 </video>
             </div>
-            <div class="second-project">
-                <h3>Haunted Jaunt</h3>
-                <p>Haunted Jaunt is a game surrounding the main character, John Lemon. The objective is to avoid John Lemon gettin caught by ghosts or other characters in a Haunted House. My learning outcomes from this project include audio settings, camera views, and also motion styles on Unity.</p>
-                <video controls width="330px" height="220px">
-                    <source src="../../images/haunted.mp4" type="video/mp4">
-                </video>
-            </div>
         </section>
     </main>
 </template>
