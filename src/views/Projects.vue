@@ -11,7 +11,7 @@
                 <h3>Eyeball</h3>
                 <p>EyeBall aims to obtain and broadcast game footage for amateur players and basketball clubs. From live games recorded on a commercial off-the-shelf panoramic camera, EyeBall uses computer vision to track the "action" on the court and livestream HQ broadcast quality footage of the game. We strive to provide more power to the players by providing them with the means to use their game and practice footage to build an online profile, connect with scouts and recruiters, generate highlight reels and skill clips, and improve the feedback process. International amateur basketball players don’t have an efficient way to showcase their skills to scouts and recruiters, and especially have trouble connecting with American programs.</p>
                 <video controls width="130px" height="120px">
-                    <source src="../../images/eyeball.mov" type="video/mp4">
+                    <source src="../../images/eyeball.mp4" type="video/mp4">
                 </video>
             </div>
         </section>

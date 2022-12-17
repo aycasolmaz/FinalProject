@@ -6,13 +6,13 @@
             <div class="top">
                 <ul>
                     <li><a href="#img_1"><img src="../../images/bos.jpg"></a></li>
-                    <li><a href="#img_2"><img src="../../images/artt.PNG"></a></li>
+                    <li><a href="#img_2"><img src="../../images/artt.png"></a></li>
                     <li><a href="#img_3"><img src="../../images/bos2.jpg"></a></li>
                     <li><a href="#img_4"><img src="../../images/budapest.jpg"></a></li>
                     <li><a href="#img_5"><img src="../../images/nyc3.jpg"></a></li>
                     <li><a href="#img_6"><img src="../../images/coin.jpg"></a></li>
                     <li><a href="#img_7"><img src="../../images/coin2.jpg"></a></li>
-                    <li><a href="#img_8"><img src="../../images/bey.jpgs"></a></li>
+                    <li><a href="#img_8"><img src="../../images/dj.jpg"></a></li>
                     <li><a href="#img_9"><img src="../../images/home.jpg"></a></li>
                     <li><a href="#img_10"><img src="../../images/met.jpg"></a></li>
                     <li><a href="#img_11"><img src="../../images/milano.jpg"></a></li>
@@ -23,21 +23,21 @@
                     <li><a href="#img_16"><img src="../../images/peace.jpg"></a></li>
                 </ul>
                 <a href="#_1" class="lightbox trans" id="img_1"><img src="../../images/bos.jpg"></a>
-                <a href="#_2" class="lightbox trans" id="img_2"><img src="../../images/artt.PNG"></a>
+                <a href="#_2" class="lightbox trans" id="img_2"><img src="../../images/artt.png"></a>
                 <a href="#_3" class="lightbox trans" id="img_3"><img src="../../images/bos2.jpg"></a>
                 <a href="#_4" class="lightbox trans" id="img_4"><img src="../../images/budapest.jpg"></a>
-                <a href="#_5" class="lightbox trans" id="img_5"><img src="../../images/nyc3.JPG"></a>
+                <a href="#_5" class="lightbox trans" id="img_5"><img src="../../images/nyc3.jpg"></a>
                 <a href="#_6" class="lightbox trans" id="img_6"><img src="../../images/coin.jpg"></a>
-                <a href="#_7" class="lightbox trans" id="img_7"><img src="../../images/coin2.JPG"></a>
+                <a href="#_7" class="lightbox trans" id="img_7"><img src="../../images/coin2.jpg"></a>
                 <a href="#_8" class="lightbox trans" id="img_8"><img src="../../images/dj.jpg"></a>
                 <a href="#_9" class="lightbox trans" id="img_9"><img src="../../images/home.jpg"></a>
                 <a href="#_10" class="lightbox trans" id="img_10"><img src="../../images/met.jpg"></a>
                 <a href="#_11" class="lightbox trans" id="img_11"><img src="../../images/milano.jpg"></a>
-                <a href="#_12" class="lightbox trans" id="img_12"><img src="../../images/sziempre.JPG"></a>
-                <a href="#_13" class="lightbox trans" id="img_13"><img src="../../images/scorpio.JPEG"></a>
-                <a href="#_14" class="lightbox trans" id="img_14"><img src="../../images/prague.JPG"></a>
-                <a href="#_15" class="lightbox trans" id="img_15"><img src="../../images/picasso.JPG"></a>
-                <a href="#_16" class="lightbox trans" id="img_16"><img src="../../images/peace.JPG"></a>
+                <a href="#_12" class="lightbox trans" id="img_12"><img src="../../images/sziempre.jpg"></a>
+                <a href="#_13" class="lightbox trans" id="img_13"><img src="../../images/scorpio.jpeg"></a>
+                <a href="#_14" class="lightbox trans" id="img_14"><img src="../../images/prague.jpg"></a>
+                <a href="#_15" class="lightbox trans" id="img_15"><img src="../../images/picasso.jpg"></a>
+                <a href="#_16" class="lightbox trans" id="img_16"><img src="../../images/peace.jpg"></a>
             </div>
         </div>
     </main>
